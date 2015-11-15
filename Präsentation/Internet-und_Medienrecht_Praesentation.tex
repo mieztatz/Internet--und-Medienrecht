@@ -1,0 +1,130 @@
+\documentclass{beamer}
+
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\mode<presentation>{
+	\definecolor{LogoRed}{RGB}{219,00,31}
+	\definecolor{LogoGray}{RGB}{86,86,80}
+	
+	\useoutertheme[width=2.1cm]{sidebar}
+	\useinnertheme{rounded}
+	\setbeamercolor{normal text}{fg=black,bg=white}
+	\setbeamercolor{palette sidebar primary}{use=normal text,fg=normal text.fg}
+	\setbeamercolor{title}{fg=LogoRed}
+	\setbeamercolor{frametitle}{fg=LogoRed}
+	\setbeamercolor{structure}{fg=LogoRed}
+	\setbeamercolor{section in sidebar}{fg=LogoRed}
+	\setbeamercolor{subsection in sidebar}{fg=LogoRed}
+	
+	\usefoottemplate{\vbox{\tinycolouredline{LogoGray!25}{\hspace{4pt}\hspace{15pt}\insertdate\hfill\insertshortinstitute\hfill \insertframenumber{}/\inserttotalframenumber}}}
+	
+	\setbeamertemplate{section in toc}{\inserttocsectionnumber.~\inserttocsection\par}
+	\setbeamertemplate{subsection in toc}{\hspace*{2em}\inserttocsectionnumber.\inserttocsubsectionnumber~\inserttocsubsection}
+	\AtBeginSubsection[] {
+		\begin{frame}<beamer>
+			\frametitle{Outline}
+			\tableofcontents[currentsection,sectionstyle=show/show,subsectionstyle=show/shaded/hide]
+		\end{frame}
+	}
+}
+
+\title[Internet- und Medienrecht]{Rechte an einer Website}
+\author[Lukas Dittmann \\und\\ Diana Irmscher]{Lukas Dittmann \\\texttt{dittmann@hm.edu}\\ Diana Irmscher\\\texttt{irmscher@fs.cs.hm.edu}}
+\institute[Hochschule für angewandte Wissenschaften München]{Fakultät für Informatik und Mathematik}
+\logo{\includegraphics[height=1cm]{logo_hm.png}}
+\date{\today}
+
+\setbeamertemplate{navigation symbols}{}
+
+\begin{document}
+	\maketitle
+	
+	\section{Begrüßung}
+	
+	\begin{frame}
+		\frametitle{Vorstellung}
+		\begin{columns}
+			\column{.47\textwidth}
+			
+			\textbf{Lukas Dittmann}
+			\\
+			Informatik, Bachelor
+			\column{.47\textwidth}
+			\textbf{Diana Irmscher}
+			\\
+			Informatik, Bachelor
+		\end{columns}
+	\end{frame}
+	
+	\section{Agenda}
+	
+	\begin{frame}
+		\frametitle{Über was reden wir heute?}
+		\textbf{Thema: Rechte an einer Website}
+		\\
+		\begin{itemize}
+			\item Überblick über die mit einer Website verbundenen Rechte:
+			\begin{itemize}
+				\item Welche Rechtsqualität besitzt eine Domain?
+				\item Welche Rechte kann der Inhaber einer Domain daraus ableiten?
+				\item Welche Stellung hat die DENIC?
+				\item Für den Fall einer angenommenen Rechtsverletzung: Auf welcher rechtlichen Grundlage kann der Inhaber einer Marke oder eines Namens gegen einen Domaininhaber vorgehen? Welches sind die Voraussetzungen?
+			\end{itemize}
+		\end{itemize}
+	\end{frame}
+	
+	\section{Begriffdefinition}
+	
+	\begin{frame}
+		\frametitle{Definition fachbezogener Begriffe}
+		
+	\end{frame}
+	
+	\section{Rechtsqualität einer Domain}
+	
+	\begin{frame}
+		\frametitle{Rechtsqualität einer Domain}
+		
+	\end{frame}
+	
+	\section{Rechte einer Domain ableiten}
+	
+	\begin{frame}
+		\frametitle{Welche Rechte kann ein Inhaber ableiten?}
+		\textbf{$^1$Wird das Recht zum Gebrauch eines Namens dem Berechtigten von einem anderen bestritten oder wird das Interesse des Berechtigten dadurch verletzt, dass ein anderer unbefugt den gleichen Namen gebraucht, so kann der Berechtigte von dem anderen Beseitigung der Beeinträchtigung verlangen. $^2$Sind weitere Beeinträchtigungen zu besorgen, so kann er auf Unterlassung klagen.}
+		\begin{itemize}
+			\item § 12 BGB
+		\end{itemize}
+		
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Welche Rechte kann ein Inhaber ableiten?}
+		\textbf{Der Inhaber eines Unternehmenskennzeichens kann einem Dritten die Verwendung dieses Zeichens als Domainname im geschäftlichen Verkehr verbieten}
+		\begin{itemize}
+			\item BGH MMR 202: vossius.de
+		\end{itemize}
+		
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Welche Rechte kann ein Inhaber ableiten?}
+		\textbf{Dem Berechtigten steht gegenüber dem nichtberechtigten Inhaber eines Domainnamens kein Anspruch auf Überschreibung, sondern nur ein Anspruch auf Löschung des Domainnames zu.}
+		\begin{itemize}
+			\item BGH I ZR 138/99 OLG München : shell.de
+		\end{itemize}
+		
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Welche Rechte kann ein Inhaber ableiten?}
+		\textbf{Schon die Registrierung, nicht erst die Benutzung eines fremden Unternehmenskennzeichens als Domain-Name im nichtgeschäftlichen Verkehr stellt eine unbefugten Namensgebrauch dar nach § 12 BGB dar.}
+		\begin{itemize}
+			\item BGH I ZR 138/99 OLG München : shell.de
+		\end{itemize}
+		
+	\end{frame}
+	
+\end{document}

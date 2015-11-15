@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Begr\IeC {\"u}\IeC {\ss }ung}{2}{0}{1}
+\beamer@sectionintoc {2}{Agenda}{3}{0}{2}
+\beamer@sectionintoc {3}{Begriffdefinition}{4}{0}{3}
+\beamer@sectionintoc {4}{Rechtsqualit\IeC {\"a}t einer Domain}{5}{0}{4}
+\beamer@sectionintoc {5}{Rechte einer Domain ableiten}{6}{0}{5}
