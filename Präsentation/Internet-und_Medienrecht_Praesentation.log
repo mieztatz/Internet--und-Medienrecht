@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.19)  9 NOV 2015 15:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.19)  26 NOV 2015 19:46
 entering extended mode
 **Internet-und_Medienrecht_Praesentation.tex
 (Internet-und_Medienrecht_Praesentation.tex
@@ -1095,7 +1095,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 41.
 
 (Internet-und_Medienrecht_Praesentation.nav)
-<logo_hm.png, id=32, 1284.8pt x 558.085pt>
+<logo_hm.png, id=48, 1284.8pt x 558.085pt>
 File: logo_hm.png Graphic file (type png)
  <use logo_hm.png>
 Package pdftex.def Info: logo_hm.png used on input line 41.
@@ -1135,16 +1135,17 @@ Package pdftex.def Info: logo_hm.png used on input line 59.
 
 [2
 
-]
+] (Internet-und_Medienrecht_Praesentation.toc)
 File: logo_hm.png Graphic file (type png)
  <use logo_hm.png>
-Package pdftex.def Info: logo_hm.png used on input line 76.
+Package pdftex.def Info: logo_hm.png used on input line 66.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [3
 
 ]
 File: logo_hm.png Graphic file (type png)
- <use logo_hm.png>
+
+<use logo_hm.png>
 Package pdftex.def Info: logo_hm.png used on input line 83.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [4
@@ -1157,59 +1158,180 @@ Package pdftex.def Info: logo_hm.png used on input line 90.
  [5
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 101
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 105
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 101.
+LaTeX Font Info:    No file OMScmss.fd. on input line 105.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textsection' on input line 101.
+(Font)              for symbol `textsection' on input line 105.
 
 File: logo_hm.png Graphic file (type png)
 <use logo_hm.png>
-Package pdftex.def Info: logo_hm.png used on input line 101.
+Package pdftex.def Info: logo_hm.png used on input line 105.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [6
 
 ]
 File: logo_hm.png Graphic file (type png)
  <use logo_hm.png>
-Package pdftex.def Info: logo_hm.png used on input line 110.
+Package pdftex.def Info: logo_hm.png used on input line 117.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [7
 
 ]
 File: logo_hm.png Graphic file (type png)
  <use logo_hm.png>
-Package pdftex.def Info: logo_hm.png used on input line 119.
+Package pdftex.def Info: logo_hm.png used on input line 124.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [8
 
 ]
-
-LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
-(Font)              using `OMS/cmss/m/n' instead
-(Font)              for symbol `textsection' on input line 128.
-
 File: logo_hm.png Graphic file (type png)
+
 <use logo_hm.png>
-Package pdftex.def Info: logo_hm.png used on input line 128.
+Package pdftex.def Info: logo_hm.png used on input line 133.
 (pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
  [9
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 138.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [10
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 144.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [11
+
+]
+File: logo_hm.png Graphic file (type png)
+
+<use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 151.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [12
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 156.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [13
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 162.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [14
+
+]
+File: logo_hm.png Graphic file (type png)
+
+<use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 173.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [15
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 186.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [16
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 196.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [17
+
+]
+File: logo_hm.png Graphic file (type png)
+
+<use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 206.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [18
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 218.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [19
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 232.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [20
+
+]
+File: logo_hm.png Graphic file (type png)
+
+<use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 246.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [21
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 261.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [22
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 276.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [23
+
+]
+File: logo_hm.png Graphic file (type png)
+
+<use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 290.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [24
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 299.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [25
+
+]
+File: logo_hm.png Graphic file (type png)
+ <use logo_hm.png>
+Package pdftex.def Info: logo_hm.png used on input line 305.
+(pdftex.def)             Requested size: 65.49844pt x 28.45274pt.
+ [26
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (Internet-und_Medienrecht_Praesentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 307.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
+
+(Internet-und_Medienrecht_Praesentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 307.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 307.
 Package rerunfilecheck Info: File `Internet-und_Medienrecht_Praesentation.out' 
 has not changed.
-(rerunfilecheck)             Checksum: 873847A58ACDC547C70BFF621BC2F807;276.
+(rerunfilecheck)             Checksum: A816FFE8D2329F41EDA56428A5B5F32D;535.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1218,25 +1340,25 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 307.
  ) 
 Here is how much of TeX's memory you used:
- 17246 strings out of 493673
- 321412 string characters out of 3151276
- 405597 words of memory out of 3000000
- 20154 multiletter control sequences out of 15000+200000
+ 17339 strings out of 493673
+ 322326 string characters out of 3151276
+ 407597 words of memory out of 3000000
+ 20206 multiletter control sequences out of 15000+200000
  11463 words of font info for 42 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 56i,20n,60p,433b,617s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,20n,60p,419b,618s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><E:/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmss12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pf
 b><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><E:/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10
 .pfb>
-Output written on Internet-und_Medienrecht_Praesentation.pdf (9 pages, 257739 b
-ytes).
+Output written on Internet-und_Medienrecht_Praesentation.pdf (26 pages, 335703 
+bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

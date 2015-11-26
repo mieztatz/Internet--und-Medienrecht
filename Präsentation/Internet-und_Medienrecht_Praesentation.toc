@@ -2,6 +2,10 @@
 \select@language {ngerman}
 \beamer@sectionintoc {1}{Begr\IeC {\"u}\IeC {\ss }ung}{2}{0}{1}
 \beamer@sectionintoc {2}{Agenda}{3}{0}{2}
-\beamer@sectionintoc {3}{Begriffdefinition}{4}{0}{3}
-\beamer@sectionintoc {4}{Rechtsqualit\IeC {\"a}t einer Domain}{5}{0}{4}
-\beamer@sectionintoc {5}{Rechte einer Domain ableiten}{6}{0}{5}
+\beamer@sectionintoc {4}{Begriffdefinition}{5}{0}{3}
+\beamer@sectionintoc {5}{Rechtsqualit\IeC {\"a}t einer Domain}{6}{0}{4}
+\beamer@sectionintoc {6}{Rechte einer Domain ableiten}{7}{0}{5}
+\beamer@sectionintoc {7}{Domain: Erkl\IeC {\"a}rung und Stellung}{7}{0}{6}
+\beamer@sectionintoc {8}{Welche Stellung hat die Denic?}{12}{0}{7}
+\beamer@sectionintoc {9}{M\IeC {\"o}glichkeiten bei einer Rechtsverletzung}{22}{0}{8}
+\beamer@sectionintoc {10}{Ausblick}{24}{0}{9}
